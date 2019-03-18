@@ -1,0 +1,26 @@
+.head1{
+	background-color: pink;
+	padding: 20px;
+	border: 10px solid black;
+	font-size: 30px;
+	margin: 15px;
+}
+.anita{
+	background-color: pink;
+	padding: 20px;
+	font-size: 30px;
+	margin: 15px;
+	border: 10px solid black;
+}
+.june{
+	font-size: 20px;
+}
+.dorothy{
+	font-size: 20px;
+}
+
+.wendy{
+	border: 5px solid black;
+	margin: 5px;
+	padding: 5px;
+}
